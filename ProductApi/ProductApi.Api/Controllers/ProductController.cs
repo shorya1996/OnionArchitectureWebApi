@@ -23,7 +23,7 @@ namespace ProductApi.Api.Controllers
 
             db = repository;
         }
-        public IEnumerable<Product> GetProducts()
+        public IEnumerable<Product>GetProducts()
             {
                 return db.GetProducts();
             }

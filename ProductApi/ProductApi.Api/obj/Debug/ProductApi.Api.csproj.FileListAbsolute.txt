@@ -77,3 +77,6 @@ C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Api\obj\Debug\Pro
 C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Api\obj\Debug\ProductApi.Api.csproj.CopyComplete
 C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Api\obj\Debug\ProductApi.Api.dll
 C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Api\obj\Debug\ProductApi.Api.pdb
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Api\bin\System.Web.Cors.dll
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Api\bin\System.Web.Http.Cors.dll
+C:\Users\admin\Source\Repos\CompunnelAPI\ProductApi\ProductApi.Api\bin\System.Web.Http.Cors.xml
